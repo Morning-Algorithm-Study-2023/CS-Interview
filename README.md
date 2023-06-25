@@ -40,24 +40,25 @@
 </br>
 
 ## 🆗 답변 업로드
-- 해당 일에 주어진 질문들의 답변을 md파일로 작성 후 `solve`로 링크 연결 (ex) Day01/이주희.md)
+- 해당 일에 주어진 질문들의 답변을 md파일로 작성 후 `solve`로 링크 연결 (파일 이름 형식 - ex) Day01/이주희.md)
+
+| Day | Section | 질문리스트 | **이주희** |**강승우** | **최태승** | 진행 여부 |
+|:------:|:-----:|:------:|:------:|:------:|:------:|:------:|
+| Day 01 | Array vs Linked List | [질문.md](/Day01/이주희.md)| <a href="/Day01/이주희.md">solve</a> |  |  |  ✅ |
+</br>
 
 ## Day 01. Array vs Linked List
-* 자료구조
-* 일시 : 23.06.26
-* 진행 여부 :
-
-| **질문** | **<a href="/Day01/이주희.md">이주희</a>** | **강승우** | **최태승** |
-|:------:|:-----:|:------:|:------:|
-| Array는 어떤 자료구조 인가요? | 🆗 | 🆗 |  🆗  | 
-| [꼬꼬무1] 미리 예상한 것보다 더 많은 수의 data를 저장하느라</br> Array의 size를 넘어서게 됐습니다. 이때, 어떻게 해결할 수 있을까요? |    |    |   | 
-| Dynamic Array는 어떤 자료구조 인가요? |    |    |   | 
-| [꼬꼬무1] Dynamic Array를 Linked List와 비교하여 장단점을 설명해주세요. |    |    |   |  
-| Linked List에 대해서 설명해 주세요. |     |    |    |   
-| [꼬꼬무1] 어느 상황에 Linked List를 쓰는게 Array보다 더 나을까요? |    |    |   |   
-| [꼬꼬무2] 어느 상황에 Array를 쓰는게 Linked List보다 더 나을까요? |    |    |   |   
-| [꼬꼬무3] Array와 LinkedList의 Memory allocation은 언제 일어나며,</br> 메모리의 어느 영역을 할당 받나요? |    |    |   |  
-| Array vs Linked List를 비교해서 설명해주세요. |    |    |    |  
+| **질문** |
+|:------:|
+| Array는 어떤 자료구조 인가요? | 
+| [꼬꼬무1] 미리 예상한 것보다 더 많은 수의 data를 저장하느라</br> Array의 size를 넘어서게 됐습니다. 이때, 어떻게 해결할 수 있을까요? | 
+| Dynamic Array는 어떤 자료구조 인가요? | 
+| [꼬꼬무1] Dynamic Array를 Linked List와 비교하여 장단점을 설명해주세요. | 
+| Linked List에 대해서 설명해 주세요. |   
+| [꼬꼬무1] 어느 상황에 Linked List를 쓰는게 Array보다 더 나을까요? |   
+| [꼬꼬무2] 어느 상황에 Array를 쓰는게 Linked List보다 더 나을까요? |   
+| [꼬꼬무3] Array와 LinkedList의 Memory allocation은 언제 일어나며,</br> 메모리의 어느 영역을 할당 받나요? |   
+| Array vs Linked List를 비교해서 설명해주세요. |  
 </br>
 </br>
 
