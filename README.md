@@ -26,9 +26,9 @@
 </br>
 
 ## 🆗 답변 업로드
-- 주어진 질문에 2줄 분량으로 답변을 이름.md에 작성 후 `Solve`로 링크 연결
+- 주어진 질문에 답변 작성 후 `Solve`로 링크 연결
 
-### Day 01. Array vs Linked List 
+## [자료구조] Day 01. Array vs Linked List 
 [질문.md](Day01/question.md), 진행 여부 ✅     
 
 | **질문** | **이주희** | **강승우** | **최태승** | 
