@@ -61,7 +61,6 @@
 | [꼬꼬무2] 어느 상황에 Array를 쓰는게 Linked List보다 더 나을까요? |   
 | [꼬꼬무3] Array와 LinkedList의 Memory allocation은 언제 일어나며, 메모리의 어느 영역을 할당 받나요? |   
 | Array vs Linked List를 비교해서 설명해주세요. |  
-</br>
 
 ### Day 02. Queue vs Stack
 | **질문** |
