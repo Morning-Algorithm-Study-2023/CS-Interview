@@ -49,7 +49,7 @@
 
 </br>
 
-## Day 01. Array vs Linked List
+### Day 01. Array vs Linked List
 | **질문** |
 |:------:|
 | Array는 어떤 자료구조 인가요? | 
@@ -62,9 +62,8 @@
 | [꼬꼬무3] Array와 LinkedList의 Memory allocation은 언제 일어나며, 메모리의 어느 영역을 할당 받나요? |   
 | Array vs Linked List를 비교해서 설명해주세요. |  
 </br>
-</br>
 
-## Day 02. Queue vs Stack
+### Day 02. Queue vs Stack
 | **질문** |
 |:------:|
 | Queue는 어떤 자료구조인가요? |
@@ -75,6 +74,8 @@
 | Queue 두 개를 이용하여 Stack를 구현해 보세요 |
 | [꼬꼬무1] 시간복잡도는 어떻게 되는지 설명해 주세요 |
 | Queue vs Priority Queue를 비교하여 설명해 주세요 |
+</br>
+</br>
 
 ## Member 👨🏻‍💻
 <table>
