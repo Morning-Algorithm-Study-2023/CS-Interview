@@ -42,9 +42,11 @@
 ## 🆗 답변 업로드
 - 해당 일에 주어진 질문들의 답변을 작성 후 `solve`로 링크 연결 (md 파일형식으로 올릴 시 파일 형식 : Day01/이름.md)
 
-| Day | Subject  | **이주희** |**강승우** | **최태승** | 진행 여부 |
-|:------:|:-----:|:------:|:------:|:------:|:------:|
-| Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> |  |  ✅ |
+| Date | Day | Subject  | **이주희** |**강승우** | **최태승** | 진행 여부 |
+|:------:|:------:|:-----:|:------:|:------:|:------:|:------:|
+| 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> |  |  ✅ |
+| 23/06/27 | Day 02 | Queue vs Stack |  |   |  |   |
+
 </br>
 
 ## Day 01. Array vs Linked List
@@ -61,6 +63,18 @@
 | Array vs Linked List를 비교해서 설명해주세요. |  
 </br>
 </br>
+
+## Day 02. Queue vs Stack
+| **질문** |
+|:------:|
+| Queue는 어떤 자료구조인가요? |
+| [꼬꼬무1] Array-Base와 List-Base의 경우 어떤 차이가 있나요? |
+| Stack은 어떤 자료구조인가요? |
+| Stack 두 개를 이용하여 Queue를 구현해 보세요 |
+| [꼬꼬무1] 시간복잡도는 어떻게 되는지 설명해 주세요 |
+| Queue 두 개를 이용하여 Stack를 구현해 보세요 |
+| [꼬꼬무1] 시간복잡도는 어떻게 되는지 설명해 주세요 |
+| Queue vs Priority Queue를 비교하여 설명해 주세요 |
 
 ## Member 👨🏻‍💻
 <table>
