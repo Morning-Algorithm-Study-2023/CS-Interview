@@ -44,7 +44,7 @@
 
 | Day | Section | 질문리스트 | **이주희** |**강승우** | **최태승** | 진행 여부 |
 |:------:|:-----:|:------:|:------:|:------:|:------:|:------:|
-| Day 01 | Array vs Linked List | [질문.md](/Day01/이주희.md)| <a href="/Day01/이주희.md">solve</a> |  |  |  ✅ |
+| Day 01 | Array vs Linked List | [질문.md](/Day01/이주희.md)| <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> |  |  ✅ |
 </br>
 
 ## Day 01. Array vs Linked List
