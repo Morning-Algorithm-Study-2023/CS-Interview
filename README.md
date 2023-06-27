@@ -1,6 +1,6 @@
 # CS-Interview
 `Since 2023-06-26`   
-#### ⚠️ 자료 저작권 때문에 public에서 private으로 변경했습니다.
+#### ⚠️ 자료 저작권 때문에 레포 설정을 public에서 private으로 변경했습니다. private으로 유지부탁드려요.
 </br>
 
 ## 📍 계획
