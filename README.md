@@ -44,7 +44,7 @@
 
 | Date | Day | Subject  | **이주희** |**강승우** | **최태승** | 진행 여부 |
 |:------:|:------:|:-----:|:------:|:------:|:------:|:------:|
-| 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> |  |  ✅ |
+| 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> | <a href ="/Day01/최태승.md">solve</a> |  ✅ |
 | 23/06/27 | Day 02 | Queue vs Stack |  |   |  |   |
 
 </br>
