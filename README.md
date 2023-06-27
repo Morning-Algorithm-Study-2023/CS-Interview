@@ -46,7 +46,7 @@
 |:------:|:------:|:-----:|:------:|:------:|:------:|:------:|
 | 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> | <a href ="/Day01/최태승.md">solve</a> |  ✅ |
 | 23/06/27 | Day 02 | Queue vs Stack | <a href="https://standing-begonia-7c8.notion.site/CS-42e244eb872449dc9a3e75871e60429b?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/484">solve</a> | <a href ="/Day02/최태승.md">solve</a> |   |
-
+| 23/06/28 | Day 03 | Hash table & BST |  |  |  |  |
 </br>
 
 ### Day 01. Array vs Linked List
@@ -61,6 +61,7 @@
 | [꼬꼬무2] 어느 상황에 Array를 쓰는게 Linked List보다 더 나을까요? |   
 | [꼬꼬무3] Array와 LinkedList의 Memory allocation은 언제 일어나며, 메모리의 어느 영역을 할당 받나요? |   
 | Array vs Linked List를 비교해서 설명해주세요. |  
+</br>
 
 ### Day 02. Queue vs Stack
 | **질문** |
@@ -73,6 +74,14 @@
 | Queue 두 개를 이용하여 Stack를 구현해 보세요 |
 | [꼬꼬무1] 시간복잡도는 어떻게 되는지 설명해 주세요 |
 | Queue vs Priority Queue를 비교하여 설명해 주세요 |
+</br>
+
+### Day 03. Hash table & BST
+| **질문** |
+|:------:|
+| BST에 대해 설명해 주세요 |
+| Hash table은 어떤 자료구조인가요? |
+| Hash table에서 collision이 발생하면 어떻게 되나요? 해결방법엔 뭐가 있을까요? |
 </br>
 </br>
 
