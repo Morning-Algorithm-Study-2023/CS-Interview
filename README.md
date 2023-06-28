@@ -69,8 +69,23 @@
 | **질문** |
 |:------:|
 | BST에 대해 설명해 주세요 |
+| [꼬꼬무1] 이진트리(Binary tree)는 어떤 자료구조인가요? |
+| [꼬꼬무2] BST의 worst case 시간복잡도는 O(n)입니다. 어떠한 경우에 worst case가 발생하나요? |
+| [꼬꼬무3] 해결방법은 무엇인가요? |
 | Hash table은 어떤 자료구조인가요? |
+| [꼬꼬무1] 좋은 hash function의 조건은 뭘까요? |
 | Hash table에서 collision이 발생하면 어떻게 되나요? 해결방법엔 뭐가 있을까요? |
+| [꼬꼬무1] worst case의 시간복잡도는 O(n)이라고 했는데 어떤 상황인가요? |
+| [꼬꼬무2] 이중 해싱(double hashing)이 무엇인지 설명해주세요 |
+
+### Day 04. Process & Thread
+| **질문** |
+|:-----:|
+| Process를 간단히 설명해 주세요 |
+| [꼬꼬무1] process의 memory영역(code, data, stack, heap)에 대해서 설명해 주세요 |
+| ⭐⭐⭐⭐ Multi process에 대해서 설명해 주세요 |
+| [꼬꼬무1] process의 context는 무엇인가요? |
+| [
 </br>
 </br>
 
