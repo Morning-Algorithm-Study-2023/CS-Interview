@@ -83,9 +83,17 @@
 |:-----:|
 | Process를 간단히 설명해 주세요 |
 | [꼬꼬무1] process의 memory영역(code, data, stack, heap)에 대해서 설명해 주세요 |
-| ⭐⭐⭐⭐ Multi process에 대해서 설명해 주세요 |
+| Multi process에 대해서 설명해 주세요 ⭐⭐⭐⭐ |
 | [꼬꼬무1] process의 context는 무엇인가요? |
-| [
+| [꼬꼬무2] PCB(Process Control Block)에 저장되는 것들은 무엇이 있나요? |
+| [꼬꼬무3] Context switch에 대해서 설명해 주세요 |
+| [꼬꼬무4] process의 state에는 어떤 것들이 있나요? |
+| Multi thread에 대해서 설명해 주세요 ⭐⭐ |
+| [꼬꼬무1] thread는 왜 독립적인 stack memory 영역이 필요한가요? |
+| [꼬꼬무2] process와 thread를 비교설명 해주세요 |
+| Multi process와 Multi thread를 비교설명해 주세요 ⭐⭐ |
+| [꼬꼬무1] multi thread가 multi process보다 좋은 점은 무엇인가요? |
+| multi process 환경에서 process간에 데이터를 어떻게 주고 받을 까요? ⭐⭐ |
 </br>
 </br>
 
