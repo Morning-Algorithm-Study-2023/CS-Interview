@@ -193,16 +193,16 @@
 |   Date   |  Day   |  Subject  |   **이주희**  |  **강승우**  |   **최태승**  | 진행 여부 |
 | :------: | :----: | :------: | :------: | :------: | :----: | :-------: |
 | 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> | <a href ="/Day01/최태승.md">solve</a> | ✅ |
-| 23/06/27 | Day 02 | Queue vs Stack | <a href="https://standing-begonia-7c8.notion.site/Day-02-Queue-vs-Stack-7c5f00c9a04d47a28dc16e968bd0c019?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/484">solve</a> | <a href ="/Day02/최태승.md">solve</a> |    ✅     |
-| 23/06/28 | Day 03 | Hash table & BST | <a href="https://standing-begonia-7c8.notion.site/Day-03-Hash-table-BST-3b94f5f4bde040698d8408169910e88b?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/486">solve</a> |   |   |
-| 23/07/04 | Day 04 | process & Thread |   |   |   |   |
-| 23/07/06 | Day 05 | Memory |   |   |   |   |
-| 23/07/11 | Day 06 | DB 구조 & 설계 |   |   |   |   |
-| 23/07/13 | Day 07 | Transaction |   |   |   |   |
-| 23/07/18 | Day 08 | Index |   |   |   |   |
-| 23/07/20 | Day 09 | TCP/IP |   |   |   |   |
-| 23/07/25 | Day 10 | HTTP |   |   |   |   |
-| 23/07/27 | Day 11 | Authorization |   |   |   |   |
+| 23/06/27 | Day 02 | Queue vs Stack | <a href="https://standing-begonia-7c8.notion.site/Day-02-Queue-vs-Stack-7c5f00c9a04d47a28dc16e968bd0c019?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/484">solve</a> | <a href ="/Day02/최태승.md">solve</a> | ✅ |
+| 23/06/28 | Day 03 | Hash table & BST | <a href="https://standing-begonia-7c8.notion.site/Day-03-Hash-table-BST-3b94f5f4bde040698d8408169910e88b?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/486">solve</a> |  - | ✅ |
+| 23/07/04 | Day 04 | process & Thread |   |   | -  |   |
+| 23/07/06 | Day 05 | Memory |   |   | -  |   |
+| 23/07/11 | Day 06 | DB 구조 & 설계 |   |   | -  |   |
+| 23/07/13 | Day 07 | Transaction |   |   | -  |   |
+| 23/07/18 | Day 08 | Index |   |   | -  |   |
+| 23/07/20 | Day 09 | TCP/IP |   |   | -  |   |
+| 23/07/25 | Day 10 | HTTP |   |   |  - |   |
+| 23/07/27 | Day 11 | Authorization |   |   | -  |   |
 </br>
 
 ## Member 👨🏻‍💻
