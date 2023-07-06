@@ -198,7 +198,7 @@
 | 23/07/04 | Day 04 | process & Thread | <a href="https://standing-begonia-7c8.notion.site/Day-04-Process-Thread-9cd9ec496d11456581d149a91a696d92?pvs=4">solve</a>  | <a href ="https://seungmu.tistory.com/488">solve</a> | -  | ✅  |
 | 23/07/06 | Day 05 | Memory |   | <a href="https://seungmu.tistory.com/491">solve</a>  | -  |   |
 | 23/07/11 | Day 06 | DB 구조 & 설계 |   | <a href="https://seungmu.tistory.com/493">solve</a> | -  |   |
-| 23/07/13 | Day 07 | Transaction |   |   | -  |   |
+| 23/07/13 | Day 07 | Transaction |   | <a href="https://seungmu.tistory.com/495">solve</a> | -  |   |
 | 23/07/18 | Day 08 | Index |   |   | -  |   |
 | 23/07/20 | Day 09 | TCP/IP |   |   | -  |   |
 | 23/07/25 | Day 10 | HTTP |   |   |  - |   |
