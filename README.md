@@ -201,7 +201,7 @@
 | 23/07/13 | Day 07 | Transaction |   | <a href="https://seungmu.tistory.com/495">solve</a> | -  |   |
 | 23/07/18 | Day 08 | Index |   | <a href="https://seungmu.tistory.com/497">solve</a> | -  |   |
 | 23/07/20 | Day 09 | TCP/IP |   | <a href="https://seungmu.tistory.com/500">solve</a> | -  |   |
-| 23/07/25 | Day 10 | HTTP |   |   |  - |   |
+| 23/07/25 | Day 10 | HTTP |   | <a href="https://seungmu.tistory.com/505">solve</a> |  - |   |
 | 23/07/27 | Day 11 | Authorization |   |   | -  |   |
 </br>
 
