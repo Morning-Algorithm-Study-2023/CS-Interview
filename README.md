@@ -47,6 +47,26 @@
 </br>
 </br>
 
+## 🆗 답변 업로드
+
+- 해당 일에 주어진 질문들의 답변을 작성 후 `solve`로 링크 연결 (md 파일형식으로 올릴 시 파일 형식 : Day01/이름.md)
+
+|   Date   |  Day   |  Subject  |   **이주희**  |  **강승우**  |   **최태승**  | 진행 여부 |
+| :------: | :----: | :------: | :------: | :------: | :----: | :-------: |
+| 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> | <a href ="/Day01/최태승.md">solve</a> | ✅ |
+| 23/06/27 | Day 02 | Queue vs Stack | <a href="https://standing-begonia-7c8.notion.site/Day-02-Queue-vs-Stack-7c5f00c9a04d47a28dc16e968bd0c019?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/484">solve</a> | <a href ="/Day02/최태승.md">solve</a> | ✅ |
+| 23/06/28 | Day 03 | Hash table & BST | <a href="https://standing-begonia-7c8.notion.site/Day-03-Hash-table-BST-3b94f5f4bde040698d8408169910e88b?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/486">solve</a> |  - | ✅ |
+| 23/07/04 | Day 04 | process & Thread | <a href="https://standing-begonia-7c8.notion.site/Day-04-Process-Thread-9cd9ec496d11456581d149a91a696d92?pvs=4">solve</a>  | <a href ="https://seungmu.tistory.com/488">solve</a> | -  | ✅  |
+| 23/07/06 | Day 05 | Memory | <a href="https://standing-begonia-7c8.notion.site/Day-05-Memory-d9660fb07abe4ecdaff3a7bf77ba704a?pvs=4">solve</a>  | <a href="https://seungmu.tistory.com/491">solve</a>  | -  | ✅ |
+| 23/07/11 | Day 06 | DB 구조 & 설계 | <a href="https://standing-begonia-7c8.notion.site/Day-06-DB-710f039568dd4c978a9325b859c3916a?pvs=4">Solve</a>  | <a href="https://seungmu.tistory.com/493">solve</a> | -  | ✅ |
+| 23/07/14 | Day 07 | Transaction |   | <a href="https://seungmu.tistory.com/495">solve</a> | -  |   |
+| 23/07/17 | Day 08 | Index |   | <a href="https://seungmu.tistory.com/497">solve</a> | -  |   |
+| 23/07/19 | Day 09 | TCP/IP |   | <a href="https://seungmu.tistory.com/500">solve</a> | -  |   |
+| 23/07/21 | Day 10 | HTTP |   | <a href="https://seungmu.tistory.com/505">solve</a> |  - |   |
+| 23/07/24 | Day 11 | Authorization |   | <a href="https://seungmu.tistory.com/507">solve</a> | -  |   |
+</br>
+</br>
+
 ## 🗂️ 질문 리스트
 
 ### Day 01. Array vs Linked List
@@ -184,25 +204,6 @@
 |       [꼬꼬무2] 쿠키의 사용 예를 아는대로 말씀해 주세요       |
 | 쿠키와 세션을 이용한 로그인 방식을 화이트보드에 설명해 주세요 |
 </br>
-</br>
-
-## 🆗 답변 업로드
-
-- 해당 일에 주어진 질문들의 답변을 작성 후 `solve`로 링크 연결 (md 파일형식으로 올릴 시 파일 형식 : Day01/이름.md)
-
-|   Date   |  Day   |  Subject  |   **이주희**  |  **강승우**  |   **최태승**  | 진행 여부 |
-| :------: | :----: | :------: | :------: | :------: | :----: | :-------: |
-| 23/06/26 | Day 01 | Array vs Linked List | <a href="/Day01/이주희.md">solve</a> | <a href ="https://seungmu.tistory.com/483">solve</a> | <a href ="/Day01/최태승.md">solve</a> | ✅ |
-| 23/06/27 | Day 02 | Queue vs Stack | <a href="https://standing-begonia-7c8.notion.site/Day-02-Queue-vs-Stack-7c5f00c9a04d47a28dc16e968bd0c019?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/484">solve</a> | <a href ="/Day02/최태승.md">solve</a> | ✅ |
-| 23/06/28 | Day 03 | Hash table & BST | <a href="https://standing-begonia-7c8.notion.site/Day-03-Hash-table-BST-3b94f5f4bde040698d8408169910e88b?pvs=4">solve</a> | <a href ="https://seungmu.tistory.com/486">solve</a> |  - | ✅ |
-| 23/07/04 | Day 04 | process & Thread | <a href="https://standing-begonia-7c8.notion.site/Day-04-Process-Thread-9cd9ec496d11456581d149a91a696d92?pvs=4">solve</a>  | <a href ="https://seungmu.tistory.com/488">solve</a> | -  | ✅  |
-| 23/07/06 | Day 05 | Memory | <a href="https://standing-begonia-7c8.notion.site/Day-05-Memory-d9660fb07abe4ecdaff3a7bf77ba704a?pvs=4">solve</a>  | <a href="https://seungmu.tistory.com/491">solve</a>  | -  | ✅ |
-| 23/07/11 | Day 06 | DB 구조 & 설계 | <a href="https://standing-begonia-7c8.notion.site/Day-06-DB-710f039568dd4c978a9325b859c3916a?pvs=4">Solve</a>  | <a href="https://seungmu.tistory.com/493">solve</a> | -  | ✅ |
-| 23/07/14 | Day 07 | Transaction |   | <a href="https://seungmu.tistory.com/495">solve</a> | -  |   |
-| 23/07/17 | Day 08 | Index |   | <a href="https://seungmu.tistory.com/497">solve</a> | -  |   |
-| 23/07/19 | Day 09 | TCP/IP |   | <a href="https://seungmu.tistory.com/500">solve</a> | -  |   |
-| 23/07/21 | Day 10 | HTTP |   | <a href="https://seungmu.tistory.com/505">solve</a> |  - |   |
-| 23/07/24 | Day 11 | Authorization |   | <a href="https://seungmu.tistory.com/507">solve</a> | -  |   |
 </br>
 
 ## Member 👨🏻‍💻
