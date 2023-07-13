@@ -202,7 +202,7 @@
 | 23/07/17 | Day 08 | Index |   | <a href="https://seungmu.tistory.com/497">solve</a> | -  |   |
 | 23/07/19 | Day 09 | TCP/IP |   | <a href="https://seungmu.tistory.com/500">solve</a> | -  |   |
 | 23/07/21 | Day 10 | HTTP |   | <a href="https://seungmu.tistory.com/505">solve</a> |  - |   |
-| 23/07/24 | Day 11 | Authorization |   |   | -  |   |
+| 23/07/24 | Day 11 | Authorization |   | <a href="https://seungmu.tistory.com/507">solve</a> | -  |   |
 </br>
 
 ## Member 👨🏻‍💻
