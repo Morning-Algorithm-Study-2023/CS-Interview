@@ -86,7 +86,7 @@
   
 |   Date   |  Day   |  Subject  |   **이주희**  |  **강승우**  |   **황수영**  | 진행 여부 |
 | :------: | :----: | :------: | :------: | :------: | :----: | :-------: |
-| 23/07/14 | Day 07 | Transaction | <a href="https://standing-begonia-7c8.notion.site/Day-07-Transaction-3927872fd87842a08a42bd27861e97a4?pvs=4">solve</a>  | <a href="https://seungmu.tistory.com/495">solve</a> |  |   |
+| 23/07/14 | Day 07 | Transaction | <a href="https://standing-begonia-7c8.notion.site/Day-07-Transaction-3927872fd87842a08a42bd27861e97a4?pvs=4">solve</a>  | <a href="https://seungmu.tistory.com/495">solve</a> |  | ✅ |
 | 23/07/17 | Day 08 | Index |   | <a href="https://seungmu.tistory.com/497">solve</a> |  |   |
 | 23/07/19 | Day 09 | TCP/IP |   | <a href="https://seungmu.tistory.com/500">solve</a> |  |   |
 | 23/07/21 | Day 10 | HTTP |   | <a href="https://seungmu.tistory.com/505">solve</a> |  |   |
