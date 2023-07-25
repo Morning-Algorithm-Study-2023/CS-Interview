@@ -79,7 +79,7 @@
 | 23/07/17 | Day 08 | Index |  <a href="https://standing-begonia-7c8.notion.site/Day-09-Index-25925a63f62e4222884c99839d9be88a?pvs=4">solve</a>   | <a href="https://seungmu.tistory.com/497">solve</a> | ✅ |
 | 23/07/19 | Day 09 | TCP/IP |   <a href="https://standing-begonia-7c8.notion.site/09-TCP-IP-c97c6da2d756416f855d33c1c1111607?pvs=4">solve</a> | <a href="https://seungmu.tistory.com/500">solve</a> | ✅ | 
 | 23/07/21 | Day 10 | HTTP | <a href="https://standing-begonia-7c8.notion.site/Day-10-HTTP-61ad2470dd0d4705acf2f90dc8338a09?pvs=4">solve</a>  | <a href="https://seungmu.tistory.com/505">solve</a> | ✅ | 
-| 23/07/24 | Day 11 | Authorization |   | <a href="https://seungmu.tistory.com/507">solve</a> |  | 
+| 23/07/24 | Day 11 | Authorization |  <a href="https://standing-begonia-7c8.notion.site/Day-11-Authorization-82476920b55b48de9cfb5ac1c962a15e?pvs=4">solve</a> | <a href="https://seungmu.tistory.com/507">solve</a> |  | 
   
 </div>
 </details>
